@@ -1,0 +1,6 @@
+interface:
+  display_name: "NMW-3Dip"
+  short_description: "参考图驱动的盲盒三维 IP 八图全案流程"
+  default_prompt: "使用 $nmw-3dip，根据参考图和 IP 简述生成 8 张 16:9 盲盒三维 IP 设计板。"
+policy:
+  allow_implicit_invocation: true
